@@ -1,1 +1,1 @@
-test announcent 2
+This is a test announcement. we will use this once we update things.
