@@ -1,1 +1,1 @@
-We will fix the ip loggers soon.
+We added a female name generator.
