@@ -1,1 +1,1 @@
-We fixed the ip loggers. we also added a zoom hand raiser made for bombing.
+We added a linkvertise bypasser.
